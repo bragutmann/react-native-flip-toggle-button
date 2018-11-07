@@ -216,7 +216,7 @@ class FlipToggle extends React.Component {
                 this.props.value
                   ? {
                       alignSelf: "flex-start",
-                      paddingLeft: 15,
+                      paddingLeft: 10,
                       letterSpacing: 0
                     }
                   : {
